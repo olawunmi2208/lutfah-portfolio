@@ -2,7 +2,10 @@ import lutfah from "../assets/lutfah.jpg";
 
 const Intro = () => {
   return (
-    <div className="flex justify-between items-center mt-40 mx-48 ">
+    <div
+      id="LUTFAH AREH"
+      className="flex justify-between items-center mt-40 mx-48 "
+    >
       <div className="">
         <h1 className="font-bold text-3xl mb-4">
           Hi, I'm <br></br>Lutfah Olawunmi Areh
@@ -13,10 +16,13 @@ const Intro = () => {
           maintainable code.
         </p>
         <main className="flex gap-4 py-8  font-semibold ">
-          <button className="bg-blue-500 border-blue-500 rounded-3xl h-12 px-4 text-white">
-            Download Resume
-          </button>
-          <button>Contact Me</button>
+          <a
+            href="path/to/Lutfah Olawunmi Areh-Cv.pdf"
+            download
+            className="bg-purple-600 border-purple-500 rounded-3xl h-12 px-4 py-2 text-white"
+          >
+            Download Resume{" "}
+          </a>
         </main>
       </div>
       <section>
