@@ -2,7 +2,7 @@ import olawunmi from "../assets/olawunmi.jpg";
 
 const About = () => {
   return (
-    <div id="About" className="flex justify-between px-50">
+    <div id="About" className="flex justify-between px-30">
       <img className="h-80 rounded-full mt-20" src={olawunmi} alt="" />
       <section className="">
         <h1 className="flex justify-center  mb-5 mt-20 rounded-2xl font-semibold text-2xl">

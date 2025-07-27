@@ -3,6 +3,7 @@ import Intro from "../src/pages/Intro";
 import About from "../src/pages/About";
 import Contacts from "./pages/Contacts";
 import Skills from "../src/pages/Skills";
+
 const App = () => {
   return (
     <div className=" ">

@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="flex justify-between px-12 py-6 text fixed top-0 bg-amber-50 w-[100%] ">
+    <div className="flex justify-between px-12 py-6 text fixed top-0 bg-purple-100 w-[100%] ">
       <section className="text-2xl font-extrabold">
         <a href="#LUTFAH AREH">LUTFAH AREH</a>
       </section>

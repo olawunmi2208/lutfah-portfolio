@@ -27,7 +27,7 @@ const Contacts = () => {
               href="https://www.linkedin.com/in/lutfah-olawunmi-areh/"
               target="_blank "
             >
-              LinkedIn
+              Lutfah Olawunmi Areh
             </a>
           </li>
         </ul>
